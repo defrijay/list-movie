@@ -1,4 +1,4 @@
-# Def Movie
+# List Movie
 Sebuah halaman website untuk menampilkan film - film populer saat ini menggunakan api `The Movie Database API`
 
 ## Daftar Isi
@@ -28,7 +28,7 @@ Proyek ini menggunakan API untuk mendapatkan data dari `IMDB`
 ##### 2. Halaman Detail Film
 ![Documentation](Documentation2.png)
 
-## Cara Penggunaan
+## Cara Instalasi
 
 ```bash
 # Clone repository ini
@@ -37,14 +37,13 @@ git clone https://github.com/defrijay/def-movie.git
 # Masuk ke direktori proyek
 cd def-movie
 
-# Instal dependensi
-npm install
+# Instal extension live server di vscode
 
-# Instal dependensi axios
-npm i axios
+# Buka dengan live server agar tampilan dibuka secara live
+```
 
-# Jalankan server kodenya secara live
-npm start --watch
-
-# Buka url servernya
- http://localhost:3000
+## Cara Penggunaan
+```bash
+1. Cari film yang ingin dicari
+2. Buka detail dari film yang dicari
+```
