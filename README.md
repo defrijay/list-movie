@@ -8,7 +8,6 @@ Sebuah halaman website untuk menampilkan film - film populer saat ini menggunaka
 - [Cara Instalasi](#cara-instalasi)
 
 ## Tumpukan Teknologi
-
 ### Bahasa Pemograman
 - **JavaScript**: Bahasa pemrograman yang digunakan untuk mengembangkan antarmuka pengguna yang dinamis dan interaktif
 
@@ -29,7 +28,7 @@ Proyek ini menggunakan API untuk mendapatkan data dari `IMDB`
 ##### 2. Halaman Detail Film
 ![Documentation](Documentation2.png)
 
-## Cara Instalasi
+## Cara Penggunaan
 
 ```bash
 # Clone repository ini
